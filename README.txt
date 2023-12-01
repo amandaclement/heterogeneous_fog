@@ -1,0 +1,1 @@
+A real-time rendering of heterogeneous fog in OpenGL. The fog model augments exponential fog by integrating Perlin turbulence into the equation, which involves the layering of Perlin noise octaves to achieve a greater amount of detail and shape than Perlin noise alone.

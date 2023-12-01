@@ -1,0 +1,3 @@
+/Users/AmandaClement/Desktop/CONCORDIA/COMP 371/project/code/build/CMakeFiles/fog.dir
+/Users/AmandaClement/Desktop/CONCORDIA/COMP 371/project/code/build/CMakeFiles/edit_cache.dir
+/Users/AmandaClement/Desktop/CONCORDIA/COMP 371/project/code/build/CMakeFiles/rebuild_cache.dir
